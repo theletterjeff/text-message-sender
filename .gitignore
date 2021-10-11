@@ -1,0 +1,6 @@
+.env
+.vscode
+env
+temp
+**/__pycache__/
+text_message_sender.egg-info
